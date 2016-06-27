@@ -6,5 +6,5 @@ void main()
 	CHello haro;
 	haro.hello();
 	// 정말로 차였다.
-	// 왜 일까?
+	// 왜 일까? 흑흑
 }
