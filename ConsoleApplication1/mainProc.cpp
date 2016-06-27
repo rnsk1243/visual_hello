@@ -2,8 +2,8 @@
 
 void main()
 {
-	// Ã€ÃšÂ±Ã¢Â¼Ã’Â°Â³
+	// ³ª´Â Â÷¿´´Ù.
 	CHello haro;
 	haro.hello();
-	// ìžê¸°ì†Œê°œ ë
+	// Â÷¿´´Ù ³¡.
 }
