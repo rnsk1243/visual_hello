@@ -2,9 +2,10 @@
 
 void main()
 {
-	// ³ª´Â Â÷¿´´Ù
+	// ë‚˜ëŠ” ì°¨ì˜€ë‹¤
 	CHello haro;
 	haro.hello();
-	// Á¤¸»·Î Â÷¿´´Ù.
-	// ¿Ö ÀÏ±î? ÈæÈæ
+	// ì •ë§ë¡œ ì°¨ì˜€ë‹¤.
+	// ì™œ ì¼ê¹Œ? í‘í‘
+	// gg
 }
